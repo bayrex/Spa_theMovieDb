@@ -1,0 +1,20 @@
+{
+  "name": "Spa_theMovieDb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayrex/Spa_theMovieDb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayrex/Spa_theMovieDb/issues"
+  },
+  "homepage": "https://github.com/bayrex/Spa_theMovieDb#readme"
+}
